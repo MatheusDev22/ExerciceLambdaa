@@ -1,12 +1,12 @@
 package Entity;
 
-public class Employe {
+public class Employee {
 	
 	String name;
 	String email;
 	double salary;
 	
-	 public Employe(String name, String email, double salary) {
+	 public Employee(String name, String email, double salary) {
 		 this.name = name;
 		 this.email = email;
 		 this.salary = salary;

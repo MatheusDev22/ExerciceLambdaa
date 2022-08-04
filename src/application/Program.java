@@ -1,6 +1,6 @@
 package application;
 
-public class application {
+public class Program {
 	
 	public static void main(String[] args) {
 		
